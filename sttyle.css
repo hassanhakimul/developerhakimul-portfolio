@@ -5,3 +5,7 @@ body{
 h1{
     font-size: 50px;
 }
+.anchor-type{
+    text-decoration: none;
+    background-image: linear-gradient(HEX: #34568B);
+}
